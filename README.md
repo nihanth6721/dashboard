@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm JONNADA NIHANTH REDDY</h1>
 <h3 align="center">A passionate DATA ANALYST from India</h3>
-src="https://github.com/rudrabarad/Gifs" alt="Gifs Repository">
+<img align = "right" alt = "Coding" width = "400" src = "https://gifdb.com/images/thumbnail/animated-man-computer-coding-nae6mec378lsg1i3.webp">
 
 - 📫 How to reach me **JNIHANTHREDDY@GMAIL.COM**
 
