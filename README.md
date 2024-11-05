@@ -1,3 +1,6 @@
-# projects
-#certificate
--->database programming with sql(orcale)
+
+JONNADA NIHANTH REDDY
+VIDYA JYOTHI INSTITUTE OF TECHNOLOGY
+2022 - 2026
+CSE-DS
+https://www.hackerrank.com/profile/jnihanthreddy (HACKER RANK PROFIE)
