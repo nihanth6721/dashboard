@@ -1,0 +1,7 @@
+week 1 where we provided deatils about 
+powerbi and LOADING 
+TRANSFORMING THE DATA
+CLEANING THE DATA
+MODEL VIEW
+REPORT VIEW 
+TABLE VIEW
