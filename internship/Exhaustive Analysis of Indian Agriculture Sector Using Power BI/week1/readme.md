@@ -1,15 +1,25 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Week 1 Overview</title>
-</head>
-<body>
-    <h1>Week 1 where we provided details about</h1>
-    <h2>Power BI and LOADING</h2>
-    <h3>TRANSFORMING THE DATA</h3>
-    <h4>CLEANING THE DATA</h4>
-    <h3>MODEL VIEW</h3>
-    <h3>REPORT VIEW</h3>
-    <h3>TABLE VIEW</h3>
-</body>
-</html>
+# 📅 Week 1: Data Collection & Cleaning
+
+## 🧩 Tasks Completed
+
+- 📥 Collected agricultural datasets from [data.gov.in](https://data.gov.in/)
+- 🧹 Cleaned missing/null values using Power Query
+- 🔄 Standardized crop, state, and season naming
+- 🗃️ Merged year-wise data files
+- 📊 Created raw pivot views in Excel to validate totals
+
+## 🛠️ Tools Used
+
+- Microsoft Excel  
+- Power BI (Power Query)  
+- Data.gov.in CSVs
+
+## 📌 Key Outputs
+
+- ✅ Cleaned and merged dataset  
+- ✅ Column descriptions & data dictionary  
+- ✅ Dataset categorized by State, Crop, Year, Season
+
+---
+
+> ✅ Ready to model and visualize in Week 2!
