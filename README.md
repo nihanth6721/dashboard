@@ -1,15 +1,84 @@
-<h1 align="center">Hi 👋, I'm JONNADA NIHANTH REDDY</h1>
-<h3 align="center">A passionate DATA ANALYST from India</h3>
-<img align = "right" alt = "Coding" width = "400" src = "https://gifdb.com/images/thumbnail/animated-man-computer-coding-nae6mec378lsg1i3.webp">
+Here’s a **professional, animated, and visually rich `README.md`** you can use as the main entry point for your GitHub dashboard repository. It includes:
 
-- 📫 How to reach me **JNIHANTHREDDY@GMAIL.COM**
+* 👤 Profile picture
+* 🔗 Project repo links
+* 📜 Certificate section
+* 📊 Skills/tech stack badges
+* 🌀 Light animations with GIFs
+* 🎯 A polished developer portfolio feel
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.hackerrank.com/jnihanthreddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jnihanthreddy" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+## 🌐 Nihanth | Data Analyst | BI Developer
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nihanth6721&show_icons=true&locale=en&layout=compact" alt="nihanth6721" /></p>
+![Profile Banner](https://user-images.githubusercontent.com/00000000/yourbannerimage.png) <img src="https://avatars.githubusercontent.com/u/nihanth6721?v=4" width="120" style="border-radius:50%" />
+
+> 🎯 Passionate about transforming raw data into compelling dashboards & intelligent insights.
+> 📊 Specializing in Power BI, Python, SQL, and data storytelling.
+
+---
+
+### 🚀 Featured Projects
+
+| Project                                        | Description                                                                       | Link                                                                                                                                                     |
+| ---------------------------------------------- | --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🌾 **Indian Agriculture Dashboard (Power BI)** | 20+ years of crop, yield, and season analysis with slicers & KPIs                 | [🔗 View](https://github.com/nihanth6721/dashboard/tree/main/internship/Exhaustive%20Analysis%20of%20Indian%20Agriculture%20Sector%20Using%20Power%20BI) |
+| 🌿 **Plant Disease Detection (ML + CNN)**      | Trained CNN model for identifying leaf diseases using Keras & image preprocessing | [🔗 View](https://github.com/nihanth6721/Plant_Diseases_Detection)                                                                                       |
+| 📁 **Projects Portfolio**                      | Case studies using Power BI, Excel, Python & SQL                                  | [🔗 View](https://github.com/nihanth6721/projects)                                                                                                       |
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat\&logo=powerbi)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat\&logo=microsoft-excel\&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat\&logo=tableau\&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat\&logo=github)
+
+---
+
+### 🧾 Certifications
+
+| 🏅 Certificate                                    | Provider                            | Year    |
+| ------------------------------------------------- | ----------------------------------- | ------- |
+| 📊 **Power BI Desktop for Business Intelligence** | Udemy                               | 2024    |
+| 📈 **Data Analysis with Python**                  | IBM via Coursera                    | 2024    |
+| 🧠 **SQL for Data Science**                       | University of California (Coursera) | 2023    |
+| 🌐 **Machine Learning Specialization**            | Andrew Ng (DeepLearning.AI)         | Ongoing |
+
+> 📄 [View All Certificates (PDF/Link)](https://drive.google.com/your-certificates-link)
+
+---
+
+### 📸 Project Snapshots
+
+| Power BI                                                              | CNN Model                                                         |
+| --------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| ![BI GIF](https://media.giphy.com/media/3ohhwq9F9SzrNnFbO8/giphy.gif) | ![CNN](https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif) |
+
+---
+
+### 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin\&style=flat-square)](https://linkedin.com/in/yourprofile)
+[![Gmail](https://img.shields.io/badge/-Email-red?logo=gmail\&style=flat-square)](mailto:youremail@example.com)
+
+---
+
+### 🔗 Explore More
+
+* [🌐 Portfolio Website (if any)](https://yourwebsite.com)
+* [🧠 Blog or Medium](https://medium.com/@yourusername)
+
+---
+
+### 💡 Tip
+
+> ⭐ Star this repo to bookmark your favorite dashboards.
+> 🛠️ Fork it to build your own analytics story!
+
+---
+
+Would you like me to export this as a `.md` file for direct upload, or help build a **Notion-style web portfolio** to host it with interactive previews?
