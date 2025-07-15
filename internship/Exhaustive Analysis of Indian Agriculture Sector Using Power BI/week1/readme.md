@@ -22,4 +22,4 @@
 
 ---
 
-> ✅ Ready to model and visualize in Week 2!
+
