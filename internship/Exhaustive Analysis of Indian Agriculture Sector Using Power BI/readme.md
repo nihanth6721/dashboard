@@ -80,7 +80,8 @@ This project leverages Power BI to analyze the **Indian Agriculture Sector** ove
 
 | 📍 Overview                                                     | 📈 Trends                                                |
 | --------------------------------------------------------------- | -------------------------------------------------------- |
-| ![Dashboard](https://img.icons8.com/ios-filled/100/monitor.png) | ![Graph](https://img.icons8.com/ios/100/combo-chart.png) |
+| this file contains project abstract and dashboard
+![image](https://github.com/user-attachments/assets/6e79ac1a-54b8-4b1f-9eb6-240dfa400b09) | ![Graph](https://img.icons8.com/ios/100/combo-chart.png) |
 
 ---
 
