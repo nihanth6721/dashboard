@@ -11,7 +11,7 @@ Here’s a **professional, animated, and visually rich `README.md`** you can use
 
 ## 🌐 Nihanth | Data Analyst | BI Developer
 
-![Profile Banner](https://user-images.githubusercontent.com/00000000/yourbannerimage.png) <img src="https://avatars.githubusercontent.com/u/nihanth6721?v=4" width="120" style="border-radius:50%" />
+![Profile Banner](https://user-images.githubusercontent.com/00000000/yourbannerimage.png) <img src="https://motionbgs.com/media/7203/wandering-swordsman.960x540.mp4" width="120" style="border-radius:50%" />
 
 > 🎯 Passionate about transforming raw data into compelling dashboards & intelligent insights.
 > 📊 Specializing in Power BI, Python, SQL, and data storytelling.
