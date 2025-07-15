@@ -11,7 +11,8 @@ Here’s a **professional, animated, and visually rich `README.md`** you can use
 
 ## 🌐 Nihanth | Data Analyst | BI Developer
 
-![Profile Banner](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczBoY2IwbjgwcWRqMjZ5eGp6MHgwdGhpbGI0bWpmemQ4NWQ0bGRtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qS)
+![Profile Banner](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczBoY2IwbjgwcWRqMjZ5eGp6MHgwdGhpbGI0bWpmemQ4NWQ0bGRtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qSrX3ITplM5WiUEMJF/giphy.gif)
+
 
 > 🎯 Passionate about transforming raw data into compelling dashboards & intelligent insights.
 > 📊 Specializing in Power BI, Python, SQL, and data storytelling.
