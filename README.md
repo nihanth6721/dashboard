@@ -55,9 +55,10 @@ Here’s a **professional, animated, and visually rich `README.md`** you can use
 
 ### 📸 Project Snapshots
 
-| Power BI                                                              | CNN Model                                                         |
-| --------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| ![BI GIF](https://media.giphy.com/media/3ohhwq9F9SzrNnFbO8/giphy.gif) | ![CNN](https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif) |
+| 🧠 Power BI Insights | 🌿 CNN Model Demo |
+|----------------------|------------------|
+| ![Power BI](https://learn.microsoft.com/en-us/power-bi/create-reports/media/power-bi-insights/insights.gif) | ![CNN](https://miro.medium.com/v2/resize:fit:2956/1*eRAF9Y5tCwb1uvpoEiMT9A.gif) |
+
 
 ---
 
