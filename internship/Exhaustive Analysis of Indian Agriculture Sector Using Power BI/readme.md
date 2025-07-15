@@ -97,5 +97,3 @@ This project leverages Power BI to analyze the **Indian Agriculture Sector** ove
 [MIT License](./LICENSE)
 
 ---
-
-Would you like me to generate the **Week1, Week2, and Week3 sub-README files** with similar design?
